@@ -1,5 +1,9 @@
 # gitlab-api-helper
 
+[![PyPI version](https://img.shields.io/pypi/v/gitlab-api-helper.svg)](https://pypi.org/project/gitlab-api-helper)
+[![PyPI Downloads](https://static.pepy.tech/badge/gitlab-api-helper)](https://pepy.tech/projects/gitlab-api-helper)
+
+
 This is a tool that calls the Gitlab API. It can query the list of projects, list branches of a specific project, and, after specifying the project and branch name, display the commit log.
 
 # Installation
